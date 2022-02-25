@@ -1,0 +1,14 @@
+* {
+  margin: 1px;
+  padding: 1px;
+  box-sizing: border-box;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid rgb(0, 0, 0);
+  display: inline-block;
+  margin-right: 4px;
+  border-radius: 5px;
+}
